@@ -1,0 +1,17 @@
+body{
+    margin: 0%;
+    background-color: rgb(42, 40, 40);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p{
+    background-color: white;
+    border: solid 2px brown;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50px;
+    margin: 0;
+    height: 70px;
+    width: 200px;
+}
